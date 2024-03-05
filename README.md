@@ -3,7 +3,7 @@
 # Proyek Analisis Data: Bike Sharing Dataset
 - **Nama:** Undissya Putri Maharani
 - **Email:** undissyaputri@gmail.com
-- **ID Dicoding:** undissya_putri_Y2mi
+- **ID Dicoding:** undissya_putri
 
 ## Setup environment
 ```
