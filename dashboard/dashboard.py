@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Import dataset
-day_df = pd.read_csv('C:\\Users\\User\\Documents\\BANGKIT\\Proyek Analisis Data\\data\\day.csv')
+day_df = pd.read_csv('data\\day.csv')
 
 # Cleaning Data
 # Change the data type of 'dteday' to datetime
