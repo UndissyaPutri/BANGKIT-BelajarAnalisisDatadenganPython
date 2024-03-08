@@ -16,3 +16,13 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+## Notes
+Ketika saya menjalankan streamlit di lokal, directory yang saya gunakan adalah
+```
+day.py
+```
+Namun, saat saya deploy dashboard, saya menggunakan directory
+```
+dashboard/day.py
+```
