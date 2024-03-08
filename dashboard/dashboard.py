@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-day_df = pd.read_csv('dataset_dashboard/day.csv')
+day_df = pd.read_csv('dashboard/day.csv')
 
 day_df['dteday'] = pd.to_datetime(day_df['dteday'])
 outlier_index = day_df[(day_df['season'] == 1) & (day_df['mnth'] == 12)].index
